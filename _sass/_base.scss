@@ -401,11 +401,11 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 2.3rem;
+    font-size: 2rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem; // 控制图标之间的间距（横向和纵向）
+    gap: 1.5rem; // 控制图标之间的间距（横向和纵向）
 
     a {
       img {
